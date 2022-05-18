@@ -1,3 +1,4 @@
 server.port: 0
 spring.h2.console.enabled: true
 spring.jpa.hibernate.ddl-auto: none
+spring.datasource.password: '{cipher}49ac4bfbfd3d8d71c74a5102e1124b2c4b88055f0dba7f10bcf2eef68b23c9ef64442a993f51c1f57a5630a9282eccb9'
